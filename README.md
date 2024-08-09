@@ -8,7 +8,7 @@ I'm a Programming Student at UCLL, specializing in Angular, HTML, and CSS. My pa
 
 Stay connected with me on LinkedIn, where I share my professional journey and connect with like-minded individuals.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/viktor-sabat-347421246/)
 
 ## My Portfolio 📁
 
