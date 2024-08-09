@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Viktor Sabat! 👋
+
+## About Me
+
+I'm a Programming Student at UCLL, specializing in Angular, HTML, and CSS. My passion lies in building clean, responsive web applications with a focus on fluid, intuitive designs. I'm always eager to learn new technologies and improve my skills, particularly in backend development and mastering Angular.
+
+## Social Media
+
+Stay connected with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/), where I share my professional journey and connect with like-minded individuals.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-username/)
+
+## My Portfolio 📁
+
+Explore my [portfolio projects](https://github.com/stars/viktor-sabat/lists/portfolio), where I showcase my latest work in web development. I'm always excited to take on new challenges and contribute to one-of-a-kind projects.
+
+## Languages and Tools
+
+### Languages
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> |
+| :--------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------: |
+|                            HTML                            |                           CSS                            |                          JavaScript                                |                          TypeScript                                 |                            Java                            |                           C#                            |
+
+### Frameworks and Libraries
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cypressio/cypressio-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40" /> |
+| :--------------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------------: | :---------------------------------------------------------: |
+|                            Angular                              |                        Spring Boot                              |                          Cypress                                   |                           Pytest                                |
+
+### Environments and Tools
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" /> |
+| :-----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------------: |
+|                            Git                            |                          GitHub                           |                           GitLab                                |                         Git Bash                                |                            Postman                                |                          SQL Server                              |
+
+## Projects & Achievements 🏆
+
+- **DressHub**: A web app to manage your wardrobe, allowing you to add, filter, and delete garments. [Check it out](https://github.com/viktor-sabat/dresshub).
+- **Grade Center**: Built with Angular, this app simplifies the process of managing grades and assignments. [Explore here](https://github.com/viktor-sabat/grade-center).
+
+---
+
+**Let's build something amazing together!**
 
 <!--
-**viktor-sabat/viktor-sabat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+When updating the README:
+1. Ensure all image sources are correct and up to date.
+2. Adjust the width and height attributes in the <img> tags if you need different icon sizes.
+3. Maintain the same width and height values for consistent sizing.
 -->
