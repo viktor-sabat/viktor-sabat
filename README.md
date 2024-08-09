@@ -1,4 +1,4 @@
-# Hi there, I'm Viktor Sabat! 👋
+# Hi there, I'm Viktor! 👋
 
 ## About Me
 
@@ -6,7 +6,7 @@ I'm a Programming Student at UCLL, specializing in Angular, HTML, and CSS. My pa
 
 ## Social Media
 
-Stay connected with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/), where I share my professional journey and connect with like-minded individuals.
+Stay connected with me on LinkedIn, where I share my professional journey and connect with like-minded individuals.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-username/)
 
