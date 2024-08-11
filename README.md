@@ -4,6 +4,8 @@
 
 I'm a Programming Student at UCLL, specializing in Angular, HTML, and CSS. My passion lies in building clean, responsive web applications with a focus on fluid, intuitive designs. I'm always eager to learn new technologies and improve my skills, particularly in backend development and mastering Angular.
 
+[![Resume](https://img.shields.io/badge/My_CV-Download-orange)](https://github.com/viktor-sabat/viktor-sabat/blob/main/CV_Viktor%20Sabat.pdf)
+
 ## Social Media
 
 Stay connected with me on LinkedIn, where I share my professional journey and connect with like-minded individuals.
@@ -38,14 +40,8 @@ Explore my [portfolio projects](https://github.com/stars/viktor-sabat/lists/port
 
 - **DressHub**: A web app to manage your wardrobe, allowing you to add, filter, and delete garments. [Check it out](https://github.com/viktor-sabat/dresshub).
 - **Grade Center**: Built with Angular, this app simplifies the process of managing grades and assignments. [Explore here](https://github.com/viktor-sabat/grade-center).
+- **Playlist**: A backend service for managing songs and playlists, built using Java Spring Boot. [View the project](https://github.com/viktor-sabat/playlist-hub).
 
 ---
 
 **Let's build something amazing together!**
-
-<!--
-When updating the README:
-1. Ensure all image sources are correct and up to date.
-2. Adjust the width and height attributes in the <img> tags if you need different icon sizes.
-3. Maintain the same width and height values for consistent sizing.
--->
