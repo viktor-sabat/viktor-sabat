@@ -4,7 +4,7 @@
 
 I'm a Programming Student at UCLL, specializing in Angular, HTML, and CSS. My passion lies in building clean, responsive web applications with a focus on fluid, intuitive designs. I'm always eager to learn new technologies and improve my skills, particularly in backend development and mastering Angular.
 
-[![Resume](https://img.shields.io/badge/My_CV-Download-orange)](https://github.com/viktor-sabat/viktor-sabat/blob/main/CV_Viktor%20Sabat.pdf)
+[![Resume](https://img.shields.io/badge/My_CV-Download-orange)](https://github.com/viktor-sabat/viktor-sabat/blob/main/CV_Viktor_Sabat.pdf)
 
 ## Social Media
 
